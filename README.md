@@ -23,7 +23,7 @@ Express Rate Limit for rate limiting<br/>
 
 # Installation<br/>
 Clone the repository:<br/>
- git clone https://github.com/yourusername/movies-api.git<br/>
+ git clone https://github.com/rajat128/MovieBackGDG.git <br/>
   cd movies-api<br/>
 # ENV<br/>
 MONGO_URI=""<br/>
